@@ -1,0 +1,120 @@
+       ------- RETR_EXTERNAL ---
+2019-01-22 17:17:27:INFO:gatherCont(189) ----- Image file F:\Image\HKFMI\sample.png will be analyzed ----------------
+2019-01-22 17:17:28:INFO:gatherCont( 40) angle: -85.72415924072266
+2019-01-22 17:17:28:INFO:gatherCont( 61) Angle needs to be adjusted..
+2019-01-22 17:17:28:INFO:gatherCont( 73) height:2339, weight:1656
+2019-01-22 17:17:28:INFO:gatherCont( 97) [INFO] angle: -4.27584
+2019-01-22 17:17:28:DEBU:gatherCont(149) How many contours: 613
+2019-01-22 17:17:28:INFO:gatherCont(161) Contour matched [40].. x:230, y:1741, w:735, h:218, size:156375.0
+2019-01-22 17:17:28:INFO:gatherCont(161) Contour matched [122].. x:226, y:426, w:360, h:59, size:19881.5
+2019-01-22 17:17:28:INFO:gatherCont(161) Contour matched [138].. x:226, y:345, w:379, h:60, size:20868.5
+2019-01-22 17:17:43:INFO:gatherCont(189) ----- Image file F:\Image\HKFMI\Scan0021.jpg will be analyzed ----------------
+2019-01-22 17:17:43:INFO:gatherCont( 40) angle: -1.3639276027679443
+2019-01-22 17:17:43:INFO:gatherCont( 61) Angle needs to be adjusted..
+2019-01-22 17:17:43:INFO:gatherCont( 73) height:2338, weight:1700
+2019-01-22 17:17:44:INFO:gatherCont( 97) [INFO] angle: 1.36393
+2019-01-22 17:17:44:DEBU:gatherCont(149) How many contours: 2589
+2019-01-22 17:17:44:INFO:gatherCont(161) Contour matched [534].. x:202, y:1822, w:729, h:216, size:153188.5
+2019-01-22 17:17:44:INFO:gatherCont(161) Contour matched [1076].. x:200, y:519, w:357, h:59, size:19368.5
+2019-01-22 17:17:44:INFO:gatherCont(161) Contour matched [1178].. x:199, y:439, w:376, h:61, size:20403.0
+2019-01-22 17:17:59:INFO:gatherCont(189) ----- Image file F:\Image\HKFMI\Scan0022.jpg will be analyzed ----------------
+2019-01-22 17:18:00:INFO:gatherCont( 40) angle: -0.0
+2019-01-22 17:18:00:INFO:gatherCont( 73) height:2338, weight:1700
+2019-01-22 17:18:00:INFO:gatherCont( 97) [INFO] angle: -0.00000
+2019-01-22 17:18:01:DEBU:gatherCont(149) How many contours: 2805
+2019-01-22 17:18:01:INFO:gatherCont(161) Contour matched [588].. x:216, y:1960, w:733, h:230, size:152705.0
+2019-01-22 17:18:01:INFO:gatherCont(161) Contour matched [1121].. x:177, y:666, w:359, h:64, size:19186.5
+2019-01-22 17:18:01:INFO:gatherCont(161) Contour matched [1242].. x:176, y:586, w:378, h:64, size:20245.5
+2019-01-22 17:18:01:INFO:gatherCont(161) Contour matched [2805].. x:0, y:0, w:1700, h:2338, size:16726.0
+2019-01-22 17:18:15:INFO:gatherCont(189) ----- Image file F:\Image\HKFMI\Scan0023.jpg will be analyzed ----------------
+2019-01-22 17:18:16:INFO:gatherCont( 40) angle: -0.0
+2019-01-22 17:18:16:INFO:gatherCont( 73) height:2338, weight:1700
+2019-01-22 17:18:16:INFO:gatherCont( 97) [INFO] angle: -0.00000
+2019-01-22 17:18:17:DEBU:gatherCont(149) How many contours: 3203
+2019-01-22 17:18:17:INFO:gatherCont(161) Contour matched [647].. x:226, y:1802, w:734, h:218, size:152769.5
+2019-01-22 17:18:17:INFO:gatherCont(161) Contour matched [1473].. x:224, y:418, w:376, h:62, size:20227.5
+2019-01-22 17:27:39:INFO:gatherCont(194) ----- Image file F:\Image\HKFMI\Scan0023.jpg will be analyzed ----------------
+2019-01-22 17:27:40:INFO:gatherCont( 40) angle: -0.0
+2019-01-22 17:27:40:INFO:gatherCont( 75) height:2338, weight:1700
+2019-01-22 17:27:40:INFO:gatherCont(102) [INFO] angle: 0.00000
+2019-01-22 17:27:41:DEBU:gatherCont(154) How many contours: 3203
+2019-01-22 17:27:41:INFO:gatherCont(166) Contour matched [647].. x:226, y:1802, w:734, h:218, size:152769.5
+2019-01-22 17:27:41:INFO:gatherCont(166) Contour matched [1473].. x:224, y:418, w:376, h:62, size:20227.5
+       ------- RETR_CCOMP ---
+2019-01-22 17:32:57:INFO:gatherCont(194) ----- Image file F:\Image\HKFMI\sample.png will be analyzed ----------------
+2019-01-22 17:32:58:INFO:gatherCont( 40) angle: -85.72415924072266
+2019-01-22 17:32:58:INFO:gatherCont( 61) Angle needs to be adjusted..
+2019-01-22 17:32:58:INFO:gatherCont( 75) height:2339, weight:1656
+2019-01-22 17:32:58:INFO:gatherCont(102) [INFO] angle: -4.27584
+2019-01-22 17:32:59:DEBU:gatherCont(154) How many contours: 1530
+2019-01-22 17:32:59:INFO:gatherCont(166) Contour matched [580].. x:230, y:1741, w:735, h:218, size:156375.0
+2019-01-22 17:32:59:INFO:gatherCont(166) Contour matched [581].. x:780, y:1835, w:183, h:121, size:21543.0
+2019-01-22 17:32:59:INFO:gatherCont(166) Contour matched [582].. x:598, y:1834, w:182, h:122, size:21583.0
+2019-01-22 17:32:59:INFO:gatherCont(166) Contour matched [583].. x:415, y:1834, w:183, h:122, size:21619.5
+2019-01-22 17:32:59:INFO:gatherCont(166) Contour matched [584].. x:232, y:1834, w:183, h:122, size:21556.0
+2019-01-22 17:33:00:INFO:gatherCont(166) Contour matched [589].. x:598, y:1744, w:365, h:46, size:15569.5
+2019-01-22 17:33:00:INFO:gatherCont(166) Contour matched [590].. x:232, y:1743, w:366, h:46, size:15600.5
+2019-01-22 17:33:00:INFO:gatherCont(166) Contour matched [796].. x:226, y:426, w:360, h:59, size:19881.5
+2019-01-22 17:33:00:INFO:gatherCont(166) Contour matched [797].. x:229, y:429, w:354, h:52, size:17325.5
+2019-01-22 17:33:00:INFO:gatherCont(166) Contour matched [937].. x:226, y:345, w:379, h:60, size:20868.5
+2019-01-22 17:33:00:INFO:gatherCont(166) Contour matched [938].. x:229, y:349, w:373, h:52, size:18240.0
+2019-01-22 17:33:14:INFO:gatherCont(194) ----- Image file F:\Image\HKFMI\Scan0021.jpg will be analyzed ----------------
+2019-01-22 17:33:17:INFO:gatherCont( 40) angle: -1.3639276027679443
+2019-01-22 17:33:17:INFO:gatherCont( 61) Angle needs to be adjusted..
+2019-01-22 17:33:17:INFO:gatherCont( 75) height:2338, weight:1700
+2019-01-22 17:33:17:INFO:gatherCont(102) [INFO] angle: 1.36393
+2019-01-22 17:33:18:DEBU:gatherCont(154) How many contours: 4802
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1831].. x:202, y:1822, w:729, h:216, size:153188.5
+
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1832].. x:747, y:1915, w:181, h:121, size:21141.0
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1833].. x:567, y:1915, w:180, h:121, size:21087.5
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1834].. x:386, y:1915, w:181, h:120, size:21244.5
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1835].. x:205, y:1914, w:181, h:120, size:21156.5
+
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1840].. x:568, y:1826, w:361, h:45, size:15544.0
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [1841].. x:206, y:1824, w:361, h:46, size:15577.5
+
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [2728].. x:200, y:519, w:357, h:59, size:19368.5
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [2729].. x:203, y:523, w:350, h:52, size:17035.0
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [3203].. x:199, y:439, w:376, h:61, size:20403.0
+2019-01-22 17:33:18:INFO:gatherCont(166) Contour matched [3204].. x:203, y:444, w:369, h:52, size:17949.5
+2019-01-22 17:33:32:INFO:gatherCont(194) ----- Image file F:\Image\HKFMI\Scan0022.jpg will be analyzed ----------------
+2019-01-22 17:33:33:INFO:gatherCont( 40) angle: -0.0
+2019-01-22 17:33:33:INFO:gatherCont( 75) height:2338, weight:1700
+2019-01-22 17:33:33:INFO:gatherCont(102) [INFO] angle: 0.00000
+2019-01-22 17:33:35:DEBU:gatherCont(154) How many contours: 5722
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [2451].. x:216, y:1960, w:733, h:230, size:152705.0
+
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [2452].. x:219, y:2064, w:183, h:124, size:21344.0
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [2453].. x:400, y:2060, w:183, h:124, size:21315.0
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [2454].. x:581, y:2055, w:183, h:125, size:21349.5
+
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [2461].. x:218, y:1971, w:361, h:52, size:15629.5
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [2462].. x:579, y:1962, w:362, h:53, size:15592.0
+
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [3457].. x:177, y:666, w:359, h:64, size:19186.5
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [3458].. x:182, y:669, w:351, h:57, size:17206.0
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [3963].. x:176, y:586, w:378, h:64, size:20245.5
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [3964].. x:180, y:589, w:370, h:59, size:18141.0
+
+2019-01-22 17:33:35:INFO:gatherCont(166) Contour matched [5714].. x:0, y:0, w:1700, h:2338, size:16726.0
+2019-01-22 17:33:47:INFO:gatherCont(194) ----- Image file F:\Image\HKFMI\Scan0023.jpg will be analyzed ----------------
+2019-01-22 17:33:48:INFO:gatherCont( 40) angle: -0.0
+2019-01-22 17:33:48:INFO:gatherCont( 75) height:2338, weight:1700
+2019-01-22 17:33:48:INFO:gatherCont(102) [INFO] angle: 0.00000
+2019-01-22 17:33:49:DEBU:gatherCont(154) How many contours: 5740
+2019-01-22 17:33:49:INFO:gatherCont(166) Contour matched [2046].. x:226, y:1802, w:734, h:218, size:152769.5
+
+2019-01-22 17:33:49:INFO:gatherCont(166) Contour matched [2051].. x:776, y:1895, w:181, h:121, size:21339.0
+2019-01-22 17:33:50:INFO:gatherCont(166) Contour matched [2053].. x:414, y:1895, w:181, h:121, size:21366.0
+
+2019-01-22 17:33:50:INFO:gatherCont(166) Contour matched [2059].. x:595, y:1806, w:362, h:45, size:15809.5
+2019-01-22 17:33:50:INFO:gatherCont(166) Contour matched [2060].. x:234, y:1805, w:361, h:46, size:15712.5
+
+2019-01-22 17:33:50:INFO:gatherCont(166) Contour matched [3188].. x:228, y:504, w:350, h:51, size:17227.0
+2019-01-22 17:33:50:INFO:gatherCont(166) Contour matched [3779].. x:224, y:418, w:376, h:62, size:20227.5
+2019-01-22 17:33:50:INFO:gatherCont(166) Contour matched [3781].. x:227, y:425, w:369, h:51, size:18020.5
+
+
+=================================================================
+

@@ -1,0 +1,388 @@
+2019-01-23 08:38:18:INFO:checkSign_(155) ------------ new starting -------------------------------------
+2019-01-23 08:38:18:DEBU:checkSign_(163) F:\Image\HKFMI\흥국화재_출금동의서 샘플2.png2
+2019-01-23 08:38:18:DEBU:checkSign_(163) F:\Image\HKFMI\sample.png2
+2019-01-23 08:38:18:DEBU:checkSign_(163) F:\Image\HKFMI\deskewedImage.png2
+2019-01-23 08:38:18:DEBU:checkSign_(163) F:\Image\HKFMI\Scan0023.jpg
+2019-01-23 08:38:18:DEBU:checkSign_(171) Scan0023.jpg is file......
+2019-01-23 08:38:19:INFO:correct_sk( 74) angle: -87.47673034667969
+2019-01-23 08:38:19:INFO:correct_sk( 94) [INFO] angle: -87.47673
+2019-01-23 08:38:19:INFO:correct_sk( 96) Angle needs to be adjusted..
+2019-01-23 08:38:19:INFO:correct_sk(108) height:2338, weight:1700
+2019-01-23 08:38:22:DEBU:PngImagePl(139) STREAM b'IHDR' 16 13
+2019-01-23 08:38:22:DEBU:PngImagePl(139) STREAM b'IDAT' 41 8192
+2019-01-23 08:38:26:INFO:checkSign_( 78) OCR Design No: [eS a
+Sales - 949876543215
+
+4b ifs = @Annan =e]
+2019-01-23 08:38:26:ERRO:checkSign_( 85) exception while getting DesignNo 
+Traceback (most recent call last):
+  File "F:/ws_py_windwos/hkfmi/venv/apps/checkSign_Folder.py", line 81, in getTextFromSubimage
+    desNo = matchobj.group(0)
+AttributeError: 'NoneType' object has no attribute 'group'
+2019-01-23 08:38:26:INFO:checkSign_(174) Design No:eS a
+Sales - 949876543215
+
+4b ifs = @Annan =e, Cust ID:None
+2019-01-23 08:38:26:DEBU:getcontour( 73) How many contours: 694
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:237, y:367, w:2, h:4
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:2.5, x:164, y:343, w:2, h:4
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:508, y:313, w:2, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:445, y:310, w:2, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:290, y:304, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:147, y:302, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:74, y:249, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:156, y:239, w:5, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:96, y:238, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:99, y:233, w:3, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:3.0, x:957, y:230, w:2, h:4
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:3, y:229, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:148, y:227, w:3, h:4
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:100, y:227, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:3, y:218, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:699, y:104, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:377, y:52, w:2, h:4
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:355, y:50, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:233, y:46, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:134, y:44, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:242, y:40, w:3, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:75, y:40, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:235, y:34, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:180, y:33, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:333, y:32, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:113, y:31, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:80, y:31, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:287, y:29, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:102, y:29, w:2, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:100, y:26, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:25, y:24, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:59, y:21, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:200, y:20, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:226, y:18, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:209, y:18, w:4, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:135, y:18, w:3, h:2
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:57, y:18, w:2, h:3
+2019-01-23 08:38:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:112, y:15, w:4, h:4
+2019-01-23 08:38:26:INFO:checkSign_(124) contours Selected 0
+2019-01-23 08:38:26:INFO:genResultE( 58) ----------------- Process completed ---------------------
+2019-01-23 08:38:26:DEBU:checkSign_(163) F:\Image\HKFMI\Scan0021.jpg2
+2019-01-23 08:38:26:DEBU:checkSign_(163) F:\Image\HKFMI\Scan0022.jpg
+2019-01-23 08:38:26:DEBU:checkSign_(171) Scan0022.jpg is file......
+2019-01-23 08:38:26:INFO:correct_sk( 74) angle: -61.47129440307617
+2019-01-23 08:38:26:INFO:correct_sk( 94) [INFO] angle: -61.47129
+2019-01-23 08:38:26:INFO:correct_sk( 96) Angle needs to be adjusted..
+2019-01-23 08:38:26:INFO:correct_sk(108) height:2338, weight:1700
+2019-01-23 08:38:28:DEBU:PngImagePl(139) STREAM b'IHDR' 16 13
+2019-01-23 08:38:28:DEBU:PngImagePl(139) STREAM b'IDAT' 41 8192
+2019-01-23 08:38:28:INFO:checkSign_( 78) OCR Design No: []
+2019-01-23 08:38:28:ERRO:checkSign_( 85) exception while getting DesignNo 
+Traceback (most recent call last):
+  File "F:/ws_py_windwos/hkfmi/venv/apps/checkSign_Folder.py", line 81, in getTextFromSubimage
+    desNo = matchobj.group(0)
+AttributeError: 'NoneType' object has no attribute 'group'
+2019-01-23 08:38:28:INFO:checkSign_(174) Design No:, Cust ID:None
+2019-01-23 08:38:29:DEBU:getcontour( 73) How many contours: 397
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:256, y:397, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.5, x:101, y:391, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:515, y:389, w:2, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:72, y:359, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:391, y:326, w:2, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:89, y:315, w:2, h:4
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.5, x:20, y:311, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:73, y:309, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:74, y:305, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:2.0, x:629, y:304, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:2.0, x:82, y:300, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:63, y:300, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:46, y:292, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:33, y:285, w:2, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:22, y:279, w:2, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:7, y:274, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:120, y:253, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:58, y:252, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:38, y:239, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:56, y:234, w:2, h:4
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:53, y:232, w:2, h:4
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:58, y:225, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:25, y:219, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:56, y:211, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:24, y:202, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:120, y:184, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:78, y:175, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:72, y:169, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:92, y:165, w:4, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:31, y:148, w:3, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:235, y:144, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:22, y:144, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:53, y:134, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:207, y:131, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:62, y:127, w:2, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:176, y:115, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.5, x:173, y:111, w:3, h:3
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:150, y:100, w:3, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:449, y:85, w:2, h:2
+2019-01-23 08:38:29:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:18, y:42, w:3, h:2
+2019-01-23 08:38:29:INFO:checkSign_(124) contours Selected 0
+2019-01-23 08:38:30:INFO:genResultE( 58) ----------------- Process completed ---------------------
+2019-01-23 08:38:30:INFO:checkSign_(177) end of directory..
+2019-01-23 08:41:13:INFO:checkSign_(155) ------------ new starting -------------------------------------
+2019-01-23 08:41:13:DEBU:checkSign_(163) F:\Image\HKFMI\흥국화재_출금동의서 샘플2.png2
+2019-01-23 08:41:13:DEBU:checkSign_(163) F:\Image\HKFMI\sample.png2
+2019-01-23 08:41:13:DEBU:checkSign_(163) F:\Image\HKFMI\deskewedImage.png2
+2019-01-23 08:41:13:DEBU:checkSign_(163) F:\Image\HKFMI\Scan0023.jpg
+2019-01-23 08:41:13:DEBU:checkSign_(171) Scan0023.jpg is file......
+2019-01-23 08:41:16:INFO:correct_sk( 70) np.where....(array([  5,  47,  72, ..., 349, 349, 349], dtype=int64), array([231, 351, 312, ...,  96,  97,  98], dtype=int64))
+2019-01-23 08:41:16:INFO:correct_sk( 72) coords..[[  5 231]
+ [ 47 351]
+ [ 72 312]
+ ...
+ [349  96]
+ [349  97]
+ [349  98]]
+2019-01-23 08:41:16:INFO:correct_sk( 74) angle: -87.47673034667969
+2019-01-23 08:41:16:INFO:correct_sk( 94) [INFO] angle: -87.47673
+2019-01-23 08:41:16:INFO:correct_sk( 96) Angle needs to be adjusted..
+2019-01-23 08:41:16:INFO:correct_sk(108) height:2338, weight:1700
+2019-01-23 08:41:18:DEBU:PngImagePl(139) STREAM b'IHDR' 16 13
+2019-01-23 08:41:18:DEBU:PngImagePl(139) STREAM b'IDAT' 41 8192
+2019-01-23 08:41:22:INFO:checkSign_( 78) OCR Design No: [eS a
+Sales - 949876543215
+
+4b ifs = @Annan =e]
+2019-01-23 08:41:22:ERRO:checkSign_( 85) exception while getting DesignNo 
+Traceback (most recent call last):
+  File "F:/ws_py_windwos/hkfmi/venv/apps/checkSign_Folder.py", line 81, in getTextFromSubimage
+    desNo = matchobj.group(0)
+AttributeError: 'NoneType' object has no attribute 'group'
+2019-01-23 08:41:22:INFO:checkSign_(174) Design No:eS a
+Sales - 949876543215
+
+4b ifs = @Annan =e, Cust ID:None
+2019-01-23 08:41:22:DEBU:getcontour( 73) How many contours: 694
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:237, y:367, w:2, h:4
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:2.5, x:164, y:343, w:2, h:4
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:508, y:313, w:2, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:445, y:310, w:2, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:290, y:304, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:147, y:302, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:74, y:249, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:156, y:239, w:5, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:96, y:238, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:99, y:233, w:3, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:3.0, x:957, y:230, w:2, h:4
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:3, y:229, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:148, y:227, w:3, h:4
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:100, y:227, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:3, y:218, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:699, y:104, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:377, y:52, w:2, h:4
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:355, y:50, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:233, y:46, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:134, y:44, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:242, y:40, w:3, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:75, y:40, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:235, y:34, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:180, y:33, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:333, y:32, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:113, y:31, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:80, y:31, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:287, y:29, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:102, y:29, w:2, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:100, y:26, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:25, y:24, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:59, y:21, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:200, y:20, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:226, y:18, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:209, y:18, w:4, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:135, y:18, w:3, h:2
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:57, y:18, w:2, h:3
+2019-01-23 08:41:22:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:112, y:15, w:4, h:4
+2019-01-23 08:41:22:INFO:checkSign_(124) contours Selected 0
+2019-01-23 08:41:23:INFO:genResultE( 58) ----------------- Process completed ---------------------
+2019-01-23 08:41:23:DEBU:checkSign_(163) F:\Image\HKFMI\Scan0021.jpg2
+2019-01-23 08:41:23:DEBU:checkSign_(163) F:\Image\HKFMI\Scan0022.jpg
+2019-01-23 08:41:23:DEBU:checkSign_(171) Scan0022.jpg is file......
+2019-01-23 08:41:24:INFO:correct_sk( 70) np.where....(array([  5,   5, 240, 240, 240, 240, 240, 240, 241, 241, 241, 241, 241,
+       241, 241, 242, 242, 242, 242, 242, 242, 242, 243, 243, 243, 243,
+       243, 243, 243, 244, 244, 244, 244, 244, 244, 244, 244, 244, 244,
+       244, 244, 244, 244, 244, 244, 244, 245, 245, 245, 245, 245, 245,
+       245, 245, 245, 245, 245, 245, 245, 245, 245, 245, 245, 245, 245,
+       245, 245, 245, 245, 245, 245, 245, 245, 245, 245, 245, 245, 245,
+       245, 245, 246, 246, 246, 246, 246, 246, 246, 246, 246, 246, 246,
+       246, 246, 246, 246, 246, 246, 246, 246, 246, 246, 246, 246, 246,
+       246, 246, 246, 246, 246, 246, 246, 246, 246, 246, 247, 247, 247,
+       247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247,
+       247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247,
+       247, 247, 247, 247, 247, 248, 248, 248, 248, 248, 248, 248, 248,
+       248, 248, 248, 248, 248, 248, 248, 248, 248, 248, 248, 248, 248,
+       248, 248, 248, 248, 248, 248, 248, 248, 248, 248, 248, 248, 249,
+       249, 249, 249, 249, 249, 249, 249, 249, 249, 249, 249, 249, 249,
+       249, 249, 249, 249, 249, 249, 249, 249, 249, 249, 249, 249, 249,
+       249, 249, 249, 249, 249, 250, 250, 250, 250, 250, 250, 250, 250,
+       250, 250, 250, 250, 250, 251, 251, 251, 251, 251, 251, 251, 251,
+       251, 251, 251, 251, 251, 252, 252, 252, 252, 252, 252, 252, 252,
+       252, 252, 252, 252, 252, 253, 253, 253, 253, 253, 253, 253, 253,
+       253, 253, 253, 253, 253, 254, 254, 254, 254, 254, 254, 254, 254,
+       254, 254, 254, 254, 254, 255, 255, 255, 255, 255, 255, 255, 255,
+       255, 255, 255, 255, 255, 256, 256, 256, 256, 256, 256, 256, 256,
+       256, 256, 256, 256, 257, 257, 257, 257, 257, 257, 257, 257, 257,
+       257, 257, 257, 257, 257, 258, 258, 258, 258, 258, 258, 258, 258,
+       258, 258, 258, 258, 258, 258, 258, 259, 259, 259, 259, 259, 259,
+       259, 259, 259, 259, 259, 259, 259, 259, 259, 260, 260, 260, 260,
+       260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 261,
+       261, 261, 261, 261, 261, 261, 261, 261, 261, 261, 261, 261, 261,
+       261, 261, 261, 262, 262, 262, 262, 262, 262, 262, 262, 262, 262,
+       262, 262, 262, 262, 262, 262, 262, 262, 263, 263, 263, 263, 263,
+       263, 263, 263, 263, 263, 263, 263, 263, 263, 263, 263, 263, 263,
+       264, 264, 264, 264, 264, 264, 264, 264, 264, 264, 264, 264, 264,
+       264, 264, 264, 264, 264, 264, 265, 265, 265, 265, 265, 265, 265,
+       265, 265, 265, 265, 265, 265, 265, 265, 265, 265, 265, 265, 265,
+       265, 265, 266, 266, 266, 266, 266, 266, 266, 266, 266, 266, 266,
+       266, 266, 266, 266, 266, 266, 266, 266, 266, 266, 267, 267, 267,
+       267, 267, 267, 267, 267, 267, 267, 267, 267, 267, 267, 267, 267,
+       267, 267, 267, 267, 267, 268, 268, 268, 268, 268, 268, 268, 268,
+       268, 268, 268, 268, 268, 268, 268, 268, 268, 268, 268, 268, 268,
+       269, 269, 269, 269, 269, 269, 269, 269, 269, 269, 269, 269, 269,
+       269, 269, 269, 269, 269, 269, 269, 269, 269, 270, 270, 270, 270,
+       270, 270, 270, 270, 270, 270, 270, 270, 270, 270, 270, 270, 270,
+       270, 270, 270, 270, 270, 271, 271, 271, 271, 271, 271, 271, 271,
+       271, 271, 271, 271, 271, 271, 271, 271, 271, 271, 271, 271, 271,
+       271, 271, 271, 272, 272, 272, 272, 272, 272, 272, 272, 272, 272,
+       272, 272, 272, 272, 272, 272, 272, 272, 272, 272, 272, 272, 273,
+       273, 273, 273, 273, 273, 273, 273, 273, 273, 273, 273, 273, 273,
+       273, 273, 273, 273, 273, 273, 273, 274, 274, 274, 274, 274, 274,
+       274, 274, 274, 274, 274, 274, 274, 274, 274, 274, 274, 275, 275,
+       275, 275, 275, 275, 275, 275, 275, 275, 275, 276, 276, 276, 276,
+       276, 276, 276, 276, 277, 277, 277, 277, 277, 277, 278, 278, 278,
+       278, 278, 278, 279, 279, 279, 279, 279, 279, 280, 280, 280, 280,
+       280, 280, 281, 281, 281, 281, 281, 281, 282, 282, 282, 282, 282,
+       282, 283, 283, 283, 283, 283, 283, 284, 284, 284, 284, 284, 284,
+       285, 285, 285, 285, 285, 285, 286, 286, 286, 286, 286, 286, 287,
+       331, 331, 331, 331, 331, 331, 331, 331, 331, 331, 331, 332, 332,
+       332, 332, 332, 332, 332, 332, 332, 332, 333, 333, 333, 333, 333,
+       333, 333, 333, 333, 333, 334, 334, 334, 334, 334, 334, 334, 334,
+       334, 334, 334, 335, 335, 335, 335, 335, 335, 335, 335, 335, 335,
+       345, 346, 347, 347, 348, 348, 349, 349, 349], dtype=int64), array([230, 231, 412, 413, 414, 415, 416, 417, 412, 413, 414, 415, 416,
+       417, 418, 412, 413, 414, 415, 416, 417, 418, 412, 413, 414, 415,
+       416, 417, 418, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407,
+       412, 413, 414, 415, 416, 417, 418, 381, 382, 383, 384, 385, 386,
+       387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399,
+       400, 401, 402, 403, 404, 405, 406, 407, 412, 413, 414, 415, 416,
+       417, 418, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391,
+       392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404,
+       405, 406, 407, 412, 413, 414, 415, 416, 417, 418, 381, 382, 383,
+       384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396,
+       397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 412, 413,
+       414, 415, 416, 417, 418, 382, 383, 384, 385, 386, 387, 388, 389,
+       390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402,
+       403, 404, 405, 406, 407, 412, 413, 414, 415, 416, 417, 418, 382,
+       383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395,
+       396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 412, 413,
+       414, 415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 413, 414,
+       415, 416, 417, 418, 392, 393, 394, 395, 396, 397, 398, 412, 413,
+       414, 415, 416, 417, 418, 391, 392, 393, 394, 395, 396, 397, 398,
+       413, 414, 415, 416, 417, 418, 419, 391, 392, 393, 394, 395, 396,
+       397, 398, 413, 414, 415, 416, 417, 418, 419, 391, 392, 393, 394,
+       395, 396, 397, 398, 399, 413, 414, 415, 416, 417, 418, 419, 390,
+       391, 392, 393, 394, 395, 396, 397, 398, 399, 413, 414, 415, 416,
+       417, 418, 419, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399,
+       400, 413, 414, 415, 416, 417, 418, 419, 390, 391, 392, 393, 394,
+       395, 396, 397, 398, 399, 400, 413, 414, 415, 416, 417, 418, 419,
+       389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401,
+       413, 414, 415, 416, 417, 418, 388, 389, 390, 391, 392, 393, 394,
+       395, 396, 397, 398, 399, 400, 401, 402, 412, 413, 414, 415, 416,
+       417, 418, 388, 389, 390, 391, 392, 393, 394, 396, 397, 398, 399,
+       400, 401, 402, 403, 413, 414, 415, 416, 417, 418, 387, 388, 389,
+       390, 391, 392, 393, 397, 398, 399, 400, 401, 402, 403, 404, 413,
+       414, 415, 416, 417, 418, 386, 387, 388, 389, 390, 391, 392, 398,
+       399, 400, 401, 402, 403, 404, 405, 413, 414, 415, 416, 417, 418,
+       386, 387, 388, 389, 390, 391, 392, 398, 399, 400, 401, 402, 403,
+       404, 405, 406, 413, 414, 415, 416, 417, 418, 385, 386, 387, 388,
+       389, 390, 391, 399, 400, 401, 402, 403, 404, 405, 406, 407, 413,
+       414, 415, 416, 417, 418, 383, 384, 385, 386, 387, 388, 389, 390,
+       400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 413, 414, 415,
+       416, 417, 418, 382, 383, 384, 385, 386, 387, 388, 389, 401, 402,
+       403, 404, 405, 406, 407, 408, 413, 414, 415, 416, 417, 418, 380,
+       381, 382, 383, 384, 385, 386, 387, 388, 389, 403, 404, 405, 406,
+       407, 413, 414, 415, 416, 417, 418, 382, 383, 384, 385, 386, 387,
+       388, 404, 405, 406, 407, 413, 414, 415, 416, 417, 418, 383, 384,
+       385, 386, 406, 413, 414, 415, 416, 417, 418, 384, 385, 413, 414,
+       415, 416, 417, 418, 413, 414, 415, 416, 417, 418, 413, 414, 415,
+       416, 417, 418, 413, 414, 415, 416, 417, 418, 413, 414, 415, 416,
+       417, 418, 413, 414, 415, 416, 417, 418, 413, 414, 415, 416, 417,
+       418, 413, 414, 415, 416, 417, 418, 413, 414, 415, 416, 417, 418,
+       413, 414, 415, 416, 417, 418, 413, 414, 415, 416, 417, 418, 418,
+       409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 410, 411,
+       412, 413, 414, 415, 416, 417, 418, 419, 410, 411, 412, 413, 414,
+       415, 416, 417, 418, 419, 409, 410, 411, 412, 413, 414, 415, 416,
+       417, 418, 419, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419,
+       419, 419, 418, 419, 418, 419, 417, 418, 419], dtype=int64))
+2019-01-23 08:41:24:INFO:correct_sk( 72) coords..[[  5 230]
+ [  5 231]
+ [240 412]
+ ...
+ [349 417]
+ [349 418]
+ [349 419]]
+2019-01-23 08:41:24:INFO:correct_sk( 74) angle: -61.47129440307617
+2019-01-23 08:41:24:INFO:correct_sk( 94) [INFO] angle: -61.47129
+2019-01-23 08:41:24:INFO:correct_sk( 96) Angle needs to be adjusted..
+2019-01-23 08:41:24:INFO:correct_sk(108) height:2338, weight:1700
+2019-01-23 08:41:26:DEBU:PngImagePl(139) STREAM b'IHDR' 16 13
+2019-01-23 08:41:26:DEBU:PngImagePl(139) STREAM b'IDAT' 41 8192
+2019-01-23 08:41:26:INFO:checkSign_( 78) OCR Design No: []
+2019-01-23 08:41:26:ERRO:checkSign_( 85) exception while getting DesignNo 
+Traceback (most recent call last):
+  File "F:/ws_py_windwos/hkfmi/venv/apps/checkSign_Folder.py", line 81, in getTextFromSubimage
+    desNo = matchobj.group(0)
+AttributeError: 'NoneType' object has no attribute 'group'
+2019-01-23 08:41:26:INFO:checkSign_(174) Design No:, Cust ID:None
+2019-01-23 08:41:26:DEBU:getcontour( 73) How many contours: 397
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:256, y:397, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.5, x:101, y:391, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:515, y:389, w:2, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:72, y:359, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:391, y:326, w:2, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:89, y:315, w:2, h:4
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.5, x:20, y:311, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:73, y:309, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:74, y:305, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:2.0, x:629, y:304, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:2.0, x:82, y:300, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:63, y:300, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:46, y:292, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:33, y:285, w:2, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:22, y:279, w:2, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:7, y:274, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:120, y:253, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:58, y:252, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:38, y:239, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:56, y:234, w:2, h:4
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:53, y:232, w:2, h:4
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:58, y:225, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:25, y:219, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:56, y:211, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:24, y:202, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:120, y:184, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:78, y:175, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:72, y:169, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:92, y:165, w:4, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:31, y:148, w:3, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.5, x:235, y:144, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:22, y:144, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:53, y:134, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:207, y:131, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:62, y:127, w:2, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:176, y:115, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.5, x:173, y:111, w:3, h:3
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:0.0, x:150, y:100, w:3, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:449, y:85, w:2, h:2
+2019-01-23 08:41:26:INFO:getcontour( 82) Each Rect contour found.. size:1.0, x:18, y:42, w:3, h:2
+2019-01-23 08:41:26:INFO:checkSign_(124) contours Selected 0
+2019-01-23 08:41:29:INFO:genResultE( 58) ----------------- Process completed ---------------------
+2019-01-23 08:41:29:INFO:checkSign_(177) end of directory..

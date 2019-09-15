@@ -1,0 +1,2261 @@
+[0] Text: 사업자 등 록록 증
+( 간이과세자 )
+등록번호 : 104-29-54610
+호 : 로케어
+영 : 력화명
+개입연월 일 :2016 년 03
+생 년 월 일 1980 년 11 일 13 일
+10 일
+사업장소재 지
+노유구 한글비석도 416. 4층 501-1호(상계동,
+서울특별시
+:
+인정
+밑딩)
+사 업의 좀류 :|입E 서비스
+E 청소서비스
+SERVIC
+발 급 사 유 : 신규
+NTS
+공동사업 자:
+국 세청
+사업자 단위 과세 적용사업자 여부 : 여 ( ) 부(V)
+전지세금계산서 전을 전자우편 주소 :
+2016 년 03 월 10 일
+노원세무서 장
+E 국세청
+UBLIC
+NLO
+
+[0] Position : vertices {
+  x: 12
+  y: 66
+}
+vertices {
+  x: 389
+  y: 66
+}
+vertices {
+  x: 389
+  y: 602
+}
+vertices {
+  x: 12
+  y: 602
+}
+
+  [1] Text: 사업자
+[1] Position : vertices {
+  x: 109
+  y: 66
+}
+vertices {
+  x: 203
+  y: 67
+}
+vertices {
+  x: 203
+  y: 88
+}
+vertices {
+  x: 109
+  y: 87
+}
+
+  [2] Text: 등
+[2] Position : vertices {
+  x: 213
+  y: 67
+}
+vertices {
+  x: 233
+  y: 67
+}
+vertices {
+  x: 233
+  y: 88
+}
+vertices {
+  x: 213
+  y: 88
+}
+
+  [3] Text: 록록
+[3] Position : vertices {
+  x: 239
+  y: 67
+}
+vertices {
+  x: 266
+  y: 67
+}
+vertices {
+  x: 266
+  y: 88
+}
+vertices {
+  x: 239
+  y: 88
+}
+
+  [4] Text: 증
+[4] Position : vertices {
+  x: 275
+  y: 67
+}
+vertices {
+  x: 284
+  y: 67
+}
+vertices {
+  x: 284
+  y: 88
+}
+vertices {
+  x: 275
+  y: 88
+}
+
+  [5] Text: (
+[5] Position : vertices {
+  x: 156
+  y: 92
+}
+vertices {
+  x: 159
+  y: 92
+}
+vertices {
+  x: 159
+  y: 103
+}
+vertices {
+  x: 156
+  y: 103
+}
+
+  [6] Text: 간이
+[6] Position : vertices {
+  x: 170
+  y: 92
+}
+vertices {
+  x: 194
+  y: 92
+}
+vertices {
+  x: 194
+  y: 103
+}
+vertices {
+  x: 170
+  y: 103
+}
+
+  [7] Text: 과세자
+[7] Position : vertices {
+  x: 199
+  y: 93
+}
+vertices {
+  x: 236
+  y: 93
+}
+vertices {
+  x: 236
+  y: 104
+}
+vertices {
+  x: 199
+  y: 104
+}
+
+  [8] Text: )
+[8] Position : vertices {
+  x: 248
+  y: 92
+}
+vertices {
+  x: 250
+  y: 92
+}
+vertices {
+  x: 250
+  y: 104
+}
+vertices {
+  x: 248
+  y: 104
+}
+
+  [9] Text: 등록
+[9] Position : vertices {
+  x: 134
+  y: 110
+}
+vertices {
+  x: 166
+  y: 110
+}
+vertices {
+  x: 166
+  y: 123
+}
+vertices {
+  x: 134
+  y: 123
+}
+
+  [10] Text: 번호
+[10] Position : vertices {
+  x: 175
+  y: 112
+}
+vertices {
+  x: 184
+  y: 112
+}
+vertices {
+  x: 184
+  y: 121
+}
+vertices {
+  x: 175
+  y: 121
+}
+
+  [11] Text: :
+[11] Position : vertices {
+  x: 193
+  y: 114
+}
+vertices {
+  x: 194
+  y: 114
+}
+vertices {
+  x: 194
+  y: 120
+}
+vertices {
+  x: 193
+  y: 120
+}
+
+  [12] Text: 104-29-54610
+[12] Position : vertices {
+  x: 203
+  y: 111
+}
+vertices {
+  x: 278
+  y: 111
+}
+vertices {
+  x: 278
+  y: 123
+}
+vertices {
+  x: 203
+  y: 123
+}
+
+  [13] Text: 호
+[13] Position : vertices {
+  x: 89
+  y: 131
+}
+vertices {
+  x: 97
+  y: 131
+}
+vertices {
+  x: 97
+  y: 138
+}
+vertices {
+  x: 89
+  y: 138
+}
+
+  [14] Text: :
+[14] Position : vertices {
+  x: 107
+  y: 133
+}
+vertices {
+  x: 108
+  y: 133
+}
+vertices {
+  x: 108
+  y: 138
+}
+vertices {
+  x: 107
+  y: 138
+}
+
+  [15] Text: 로케
+[15] Position : vertices {
+  x: 113
+  y: 130
+}
+vertices {
+  x: 155
+  y: 131
+}
+vertices {
+  x: 155
+  y: 141
+}
+vertices {
+  x: 113
+  y: 140
+}
+
+  [16] Text: 어
+[16] Position : vertices {
+  x: 157
+  y: 132
+}
+vertices {
+  x: 160
+  y: 132
+}
+vertices {
+  x: 160
+  y: 141
+}
+vertices {
+  x: 157
+  y: 141
+}
+
+  [17] Text: 영
+[17] Position : vertices {
+  x: 89
+  y: 148
+}
+vertices {
+  x: 96
+  y: 148
+}
+vertices {
+  x: 96
+  y: 155
+}
+vertices {
+  x: 89
+  y: 155
+}
+
+  [18] Text: :
+[18] Position : vertices {
+  x: 108
+  y: 147
+}
+vertices {
+  x: 110
+  y: 147
+}
+vertices {
+  x: 110
+  y: 155
+}
+vertices {
+  x: 108
+  y: 155
+}
+
+  [19] Text: 력
+[19] Position : vertices {
+  x: 112
+  y: 147
+}
+vertices {
+  x: 127
+  y: 147
+}
+vertices {
+  x: 127
+  y: 155
+}
+vertices {
+  x: 112
+  y: 155
+}
+
+  [20] Text: 화명
+[20] Position : vertices {
+  x: 126
+  y: 149
+}
+vertices {
+  x: 141
+  y: 149
+}
+vertices {
+  x: 141
+  y: 156
+}
+vertices {
+  x: 126
+  y: 156
+}
+
+  [21] Text: 개입
+[21] Position : vertices {
+  x: 15
+  y: 161
+}
+vertices {
+  x: 49
+  y: 162
+}
+vertices {
+  x: 49
+  y: 170
+}
+vertices {
+  x: 15
+  y: 169
+}
+
+  [22] Text: 연월
+[22] Position : vertices {
+  x: 55
+  y: 162
+}
+vertices {
+  x: 79
+  y: 163
+}
+vertices {
+  x: 79
+  y: 171
+}
+vertices {
+  x: 55
+  y: 170
+}
+
+  [23] Text: 일
+[23] Position : vertices {
+  x: 89
+  y: 164
+}
+vertices {
+  x: 96
+  y: 164
+}
+vertices {
+  x: 96
+  y: 171
+}
+vertices {
+  x: 89
+  y: 171
+}
+
+  [24] Text: :
+[24] Position : vertices {
+  x: 107
+  y: 167
+}
+vertices {
+  x: 108
+  y: 167
+}
+vertices {
+  x: 108
+  y: 171
+}
+vertices {
+  x: 107
+  y: 171
+}
+
+  [25] Text: 2016
+[25] Position : vertices {
+  x: 110
+  y: 162
+}
+vertices {
+  x: 133
+  y: 163
+}
+vertices {
+  x: 133
+  y: 172
+}
+vertices {
+  x: 110
+  y: 171
+}
+
+  [26] Text: 년
+[26] Position : vertices {
+  x: 141
+  y: 164
+}
+vertices {
+  x: 150
+  y: 164
+}
+vertices {
+  x: 150
+  y: 172
+}
+vertices {
+  x: 141
+  y: 172
+}
+
+  [27] Text: 03
+[27] Position : vertices {
+  x: 153
+  y: 164
+}
+vertices {
+  x: 163
+  y: 164
+}
+vertices {
+  x: 163
+  y: 172
+}
+vertices {
+  x: 153
+  y: 172
+}
+
+  [28] Text: 생
+[28] Position : vertices {
+  x: 207
+  y: 149
+}
+vertices {
+  x: 228
+  y: 148
+}
+vertices {
+  x: 228
+  y: 157
+}
+vertices {
+  x: 207
+  y: 158
+}
+
+  [29] Text: 년
+[29] Position : vertices {
+  x: 231
+  y: 150
+}
+vertices {
+  x: 238
+  y: 150
+}
+vertices {
+  x: 238
+  y: 156
+}
+vertices {
+  x: 231
+  y: 156
+}
+
+  [30] Text: 월
+[30] Position : vertices {
+  x: 250
+  y: 150
+}
+vertices {
+  x: 256
+  y: 150
+}
+vertices {
+  x: 256
+  y: 157
+}
+vertices {
+  x: 250
+  y: 157
+}
+
+  [31] Text: 일
+[31] Position : vertices {
+  x: 268
+  y: 149
+}
+vertices {
+  x: 274
+  y: 149
+}
+vertices {
+  x: 274
+  y: 156
+}
+vertices {
+  x: 268
+  y: 156
+}
+
+  [32] Text: 1980
+[32] Position : vertices {
+  x: 295
+  y: 148
+}
+vertices {
+  x: 311
+  y: 147
+}
+vertices {
+  x: 311
+  y: 154
+}
+vertices {
+  x: 295
+  y: 155
+}
+
+  [33] Text: 년
+[33] Position : vertices {
+  x: 318
+  y: 147
+}
+vertices {
+  x: 324
+  y: 147
+}
+vertices {
+  x: 324
+  y: 154
+}
+vertices {
+  x: 318
+  y: 154
+}
+
+  [34] Text: 11
+[34] Position : vertices {
+  x: 333
+  y: 147
+}
+vertices {
+  x: 339
+  y: 147
+}
+vertices {
+  x: 339
+  y: 154
+}
+vertices {
+  x: 333
+  y: 154
+}
+
+  [35] Text: 일
+[35] Position : vertices {
+  x: 347
+  y: 145
+}
+vertices {
+  x: 353
+  y: 145
+}
+vertices {
+  x: 353
+  y: 153
+}
+vertices {
+  x: 347
+  y: 153
+}
+
+  [36] Text: 13
+[36] Position : vertices {
+  x: 362
+  y: 146
+}
+vertices {
+  x: 369
+  y: 146
+}
+vertices {
+  x: 369
+  y: 153
+}
+vertices {
+  x: 362
+  y: 153
+}
+
+  [37] Text: 일
+[37] Position : vertices {
+  x: 376
+  y: 146
+}
+vertices {
+  x: 383
+  y: 146
+}
+vertices {
+  x: 383
+  y: 153
+}
+vertices {
+  x: 376
+  y: 153
+}
+
+  [38] Text: 10
+[38] Position : vertices {
+  x: 180
+  y: 164
+}
+vertices {
+  x: 192
+  y: 164
+}
+vertices {
+  x: 192
+  y: 173
+}
+vertices {
+  x: 180
+  y: 173
+}
+
+  [39] Text: 일
+[39] Position : vertices {
+  x: 198
+  y: 165
+}
+vertices {
+  x: 202
+  y: 165
+}
+vertices {
+  x: 202
+  y: 173
+}
+vertices {
+  x: 198
+  y: 173
+}
+
+  [40] Text: 사업장
+[40] Position : vertices {
+  x: 21
+  y: 178
+}
+vertices {
+  x: 56
+  y: 178
+}
+vertices {
+  x: 56
+  y: 187
+}
+vertices {
+  x: 21
+  y: 187
+}
+
+  [41] Text: 소재
+[41] Position : vertices {
+  x: 63
+  y: 180
+}
+vertices {
+  x: 83
+  y: 180
+}
+vertices {
+  x: 83
+  y: 188
+}
+vertices {
+  x: 63
+  y: 188
+}
+
+  [42] Text: 지
+[42] Position : vertices {
+  x: 90
+  y: 181
+}
+vertices {
+  x: 96
+  y: 181
+}
+vertices {
+  x: 96
+  y: 188
+}
+vertices {
+  x: 90
+  y: 188
+}
+
+  [43] Text: 노
+[43] Position : vertices {
+  x: 165
+  y: 178
+}
+vertices {
+  x: 174
+  y: 178
+}
+vertices {
+  x: 174
+  y: 188
+}
+vertices {
+  x: 165
+  y: 188
+}
+
+  [44] Text: 유구
+[44] Position : vertices {
+  x: 176
+  y: 177
+}
+vertices {
+  x: 191
+  y: 177
+}
+vertices {
+  x: 191
+  y: 188
+}
+vertices {
+  x: 176
+  y: 188
+}
+
+  [45] Text: 한글
+[45] Position : vertices {
+  x: 194
+  y: 183
+}
+vertices {
+  x: 209
+  y: 183
+}
+vertices {
+  x: 209
+  y: 188
+}
+vertices {
+  x: 194
+  y: 188
+}
+
+  [46] Text: 비석
+[46] Position : vertices {
+  x: 212
+  y: 183
+}
+vertices {
+  x: 226
+  y: 183
+}
+vertices {
+  x: 226
+  y: 188
+}
+vertices {
+  x: 212
+  y: 188
+}
+
+  [47] Text: 도
+[47] Position : vertices {
+  x: 229
+  y: 183
+}
+vertices {
+  x: 235
+  y: 183
+}
+vertices {
+  x: 235
+  y: 188
+}
+vertices {
+  x: 229
+  y: 188
+}
+
+  [48] Text: 416.
+[48] Position : vertices {
+  x: 241
+  y: 183
+}
+vertices {
+  x: 256
+  y: 183
+}
+vertices {
+  x: 256
+  y: 189
+}
+vertices {
+  x: 241
+  y: 189
+}
+
+  [49] Text: 4
+[49] Position : vertices {
+  x: 260
+  y: 178
+}
+vertices {
+  x: 268
+  y: 178
+}
+vertices {
+  x: 268
+  y: 188
+}
+vertices {
+  x: 260
+  y: 188
+}
+
+  [50] Text: 층
+[50] Position : vertices {
+  x: 270
+  y: 178
+}
+vertices {
+  x: 275
+  y: 178
+}
+vertices {
+  x: 275
+  y: 188
+}
+vertices {
+  x: 270
+  y: 188
+}
+
+  [51] Text: 501-1
+[51] Position : vertices {
+  x: 280
+  y: 180
+}
+vertices {
+  x: 300
+  y: 180
+}
+vertices {
+  x: 300
+  y: 187
+}
+vertices {
+  x: 280
+  y: 187
+}
+
+  [52] Text: 호
+[52] Position : vertices {
+  x: 303
+  y: 181
+}
+vertices {
+  x: 309
+  y: 181
+}
+vertices {
+  x: 309
+  y: 187
+}
+vertices {
+  x: 303
+  y: 187
+}
+
+  [53] Text: (
+[53] Position : vertices {
+  x: 312
+  y: 180
+}
+vertices {
+  x: 312
+  y: 180
+}
+vertices {
+  x: 312
+  y: 186
+}
+vertices {
+  x: 312
+  y: 186
+}
+
+  [54] Text: 상계동
+[54] Position : vertices {
+  x: 316
+  y: 178
+}
+vertices {
+  x: 340
+  y: 178
+}
+vertices {
+  x: 340
+  y: 188
+}
+vertices {
+  x: 316
+  y: 188
+}
+
+  [55] Text: ,
+[55] Position : vertices {
+  x: 343
+  y: 185
+}
+vertices {
+  x: 343
+  y: 185
+}
+vertices {
+  x: 343
+  y: 185
+}
+vertices {
+  x: 343
+  y: 185
+}
+
+  [56] Text: 서울
+[56] Position : vertices {
+  x: 117
+  y: 182
+}
+vertices {
+  x: 131
+  y: 182
+}
+vertices {
+  x: 131
+  y: 188
+}
+vertices {
+  x: 117
+  y: 188
+}
+
+  [57] Text: 특별시
+[57] Position : vertices {
+  x: 134
+  y: 181
+}
+vertices {
+  x: 157
+  y: 181
+}
+vertices {
+  x: 157
+  y: 188
+}
+vertices {
+  x: 134
+  y: 188
+}
+
+  [58] Text: :
+[58] Position : vertices {
+  x: 107
+  y: 183
+}
+vertices {
+  x: 108
+  y: 183
+}
+vertices {
+  x: 108
+  y: 187
+}
+vertices {
+  x: 107
+  y: 187
+}
+
+  [59] Text: 인정
+[59] Position : vertices {
+  x: 350
+  y: 177
+}
+vertices {
+  x: 370
+  y: 177
+}
+vertices {
+  x: 370
+  y: 188
+}
+vertices {
+  x: 350
+  y: 188
+}
+
+  [60] Text: 밑딩
+[60] Position : vertices {
+  x: 378
+  y: 178
+}
+vertices {
+  x: 384
+  y: 178
+}
+vertices {
+  x: 384
+  y: 185
+}
+vertices {
+  x: 378
+  y: 185
+}
+
+  [61] Text: )
+[61] Position : vertices {
+  x: 387
+  y: 178
+}
+vertices {
+  x: 389
+  y: 178
+}
+vertices {
+  x: 389
+  y: 185
+}
+vertices {
+  x: 387
+  y: 185
+}
+
+  [62] Text: 사
+[62] Position : vertices {
+  x: 21
+  y: 211
+}
+vertices {
+  x: 27
+  y: 211
+}
+vertices {
+  x: 27
+  y: 218
+}
+vertices {
+  x: 21
+  y: 218
+}
+
+  [63] Text: 업
+[63] Position : vertices {
+  x: 50
+  y: 211
+}
+vertices {
+  x: 52
+  y: 211
+}
+vertices {
+  x: 52
+  y: 219
+}
+vertices {
+  x: 50
+  y: 219
+}
+
+  [64] Text: 의
+[64] Position : vertices {
+  x: 56
+  y: 212
+}
+vertices {
+  x: 62
+  y: 212
+}
+vertices {
+  x: 62
+  y: 219
+}
+vertices {
+  x: 56
+  y: 219
+}
+
+  [65] Text: 좀류
+[65] Position : vertices {
+  x: 73
+  y: 212
+}
+vertices {
+  x: 96
+  y: 212
+}
+vertices {
+  x: 96
+  y: 219
+}
+vertices {
+  x: 73
+  y: 219
+}
+
+  [66] Text: :
+[66] Position : vertices {
+  x: 108
+  y: 213
+}
+vertices {
+  x: 108
+  y: 213
+}
+vertices {
+  x: 108
+  y: 214
+}
+vertices {
+  x: 108
+  y: 214
+}
+
+  [67] Text: |
+[67] Position : vertices {
+  x: 110
+  y: 211
+}
+vertices {
+  x: 118
+  y: 211
+}
+vertices {
+  x: 118
+  y: 219
+}
+vertices {
+  x: 110
+  y: 219
+}
+
+  [68] Text: 입
+[68] Position : vertices {
+  x: 120
+  y: 211
+}
+vertices {
+  x: 126
+  y: 211
+}
+vertices {
+  x: 126
+  y: 219
+}
+vertices {
+  x: 120
+  y: 219
+}
+
+  [69] Text: E
+[69] Position : vertices {
+  x: 128
+  y: 211
+}
+vertices {
+  x: 133
+  y: 211
+}
+vertices {
+  x: 133
+  y: 219
+}
+vertices {
+  x: 128
+  y: 219
+}
+
+  [70] Text: 서비스
+[70] Position : vertices {
+  x: 142
+  y: 213
+}
+vertices {
+  x: 164
+  y: 213
+}
+vertices {
+  x: 164
+  y: 219
+}
+vertices {
+  x: 142
+  y: 219
+}
+
+  [71] Text: E
+[71] Position : vertices {
+  x: 253
+  y: 211
+}
+vertices {
+  x: 274
+  y: 211
+}
+vertices {
+  x: 274
+  y: 220
+}
+vertices {
+  x: 253
+  y: 220
+}
+
+  [72] Text: 청소
+[72] Position : vertices {
+  x: 280
+  y: 211
+}
+vertices {
+  x: 294
+  y: 211
+}
+vertices {
+  x: 294
+  y: 218
+}
+vertices {
+  x: 280
+  y: 218
+}
+
+  [73] Text: 서비스
+[73] Position : vertices {
+  x: 297
+  y: 211
+}
+vertices {
+  x: 320
+  y: 211
+}
+vertices {
+  x: 320
+  y: 218
+}
+vertices {
+  x: 297
+  y: 218
+}
+
+  [74] Text: SERVIC
+[74] Position : vertices {
+  x: 149
+  y: 243
+}
+vertices {
+  x: 201
+  y: 226
+}
+vertices {
+  x: 207
+  y: 242
+}
+vertices {
+  x: 154
+  y: 259
+}
+
+  [75] Text: 발
+[75] Position : vertices {
+  x: 12
+  y: 301
+}
+vertices {
+  x: 34
+  y: 301
+}
+vertices {
+  x: 34
+  y: 310
+}
+vertices {
+  x: 12
+  y: 310
+}
+
+  [76] Text: 급
+[76] Position : vertices {
+  x: 44
+  y: 303
+}
+vertices {
+  x: 50
+  y: 303
+}
+vertices {
+  x: 50
+  y: 310
+}
+vertices {
+  x: 44
+  y: 310
+}
+
+  [77] Text: 사
+[77] Position : vertices {
+  x: 67
+  y: 302
+}
+vertices {
+  x: 73
+  y: 302
+}
+vertices {
+  x: 73
+  y: 310
+}
+vertices {
+  x: 67
+  y: 310
+}
+
+  [78] Text: 유
+[78] Position : vertices {
+  x: 90
+  y: 301
+}
+vertices {
+  x: 96
+  y: 301
+}
+vertices {
+  x: 96
+  y: 309
+}
+vertices {
+  x: 90
+  y: 309
+}
+
+  [79] Text: :
+[79] Position : vertices {
+  x: 107
+  y: 300
+}
+vertices {
+  x: 111
+  y: 300
+}
+vertices {
+  x: 111
+  y: 309
+}
+vertices {
+  x: 107
+  y: 309
+}
+
+  [80] Text: 신규
+[80] Position : vertices {
+  x: 117
+  y: 301
+}
+vertices {
+  x: 131
+  y: 301
+}
+vertices {
+  x: 131
+  y: 308
+}
+vertices {
+  x: 117
+  y: 308
+}
+
+  [81] Text: NTS
+[81] Position : vertices {
+  x: 192
+  y: 298
+}
+vertices {
+  x: 216
+  y: 298
+}
+vertices {
+  x: 216
+  y: 307
+}
+vertices {
+  x: 192
+  y: 307
+}
+
+  [82] Text: 공동
+[82] Position : vertices {
+  x: 19
+  y: 318
+}
+vertices {
+  x: 45
+  y: 318
+}
+vertices {
+  x: 45
+  y: 326
+}
+vertices {
+  x: 19
+  y: 326
+}
+
+  [83] Text: 사업
+[83] Position : vertices {
+  x: 55
+  y: 318
+}
+vertices {
+  x: 79
+  y: 318
+}
+vertices {
+  x: 79
+  y: 325
+}
+vertices {
+  x: 55
+  y: 325
+}
+
+  [84] Text: 자
+[84] Position : vertices {
+  x: 97
+  y: 316
+}
+vertices {
+  x: 102
+  y: 316
+}
+vertices {
+  x: 102
+  y: 325
+}
+vertices {
+  x: 97
+  y: 325
+}
+
+  [85] Text: :
+[85] Position : vertices {
+  x: 107
+  y: 318
+}
+vertices {
+  x: 108
+  y: 318
+}
+vertices {
+  x: 108
+  y: 323
+}
+vertices {
+  x: 107
+  y: 323
+}
+
+  [86] Text: 국
+[86] Position : vertices {
+  x: 170
+  y: 362
+}
+vertices {
+  x: 189
+  y: 361
+}
+vertices {
+  x: 190
+  y: 381
+}
+vertices {
+  x: 171
+  y: 382
+}
+
+  [87] Text: 세청
+[87] Position : vertices {
+  x: 192
+  y: 360
+}
+vertices {
+  x: 239
+  y: 357
+}
+vertices {
+  x: 240
+  y: 378
+}
+vertices {
+  x: 193
+  y: 381
+}
+
+  [88] Text: 사업자
+[88] Position : vertices {
+  x: 17
+  y: 448
+}
+vertices {
+  x: 45
+  y: 447
+}
+vertices {
+  x: 45
+  y: 456
+}
+vertices {
+  x: 17
+  y: 457
+}
+
+  [89] Text: 단위
+[89] Position : vertices {
+  x: 54
+  y: 447
+}
+vertices {
+  x: 71
+  y: 447
+}
+vertices {
+  x: 71
+  y: 455
+}
+vertices {
+  x: 54
+  y: 455
+}
+
+  [90] Text: 과세
+[90] Position : vertices {
+  x: 81
+  y: 447
+}
+vertices {
+  x: 98
+  y: 447
+}
+vertices {
+  x: 98
+  y: 455
+}
+vertices {
+  x: 81
+  y: 455
+}
+
+  [91] Text: 적용
+[91] Position : vertices {
+  x: 109
+  y: 443
+}
+vertices {
+  x: 129
+  y: 443
+}
+vertices {
+  x: 129
+  y: 454
+}
+vertices {
+  x: 109
+  y: 454
+}
+
+  [92] Text: 사업자
+[92] Position : vertices {
+  x: 131
+  y: 443
+}
+vertices {
+  x: 157
+  y: 443
+}
+vertices {
+  x: 157
+  y: 454
+}
+vertices {
+  x: 131
+  y: 455
+}
+
+  [93] Text: 여부
+[93] Position : vertices {
+  x: 164
+  y: 445
+}
+vertices {
+  x: 181
+  y: 445
+}
+vertices {
+  x: 181
+  y: 452
+}
+vertices {
+  x: 164
+  y: 452
+}
+
+  [94] Text: :
+[94] Position : vertices {
+  x: 192
+  y: 446
+}
+vertices {
+  x: 193
+  y: 446
+}
+vertices {
+  x: 193
+  y: 451
+}
+vertices {
+  x: 192
+  y: 451
+}
+
+  [95] Text: 여
+[95] Position : vertices {
+  x: 202
+  y: 444
+}
+vertices {
+  x: 208
+  y: 444
+}
+vertices {
+  x: 208
+  y: 451
+}
+vertices {
+  x: 202
+  y: 451
+}
+
+  [96] Text: (
+[96] Position : vertices {
+  x: 217
+  y: 442
+}
+vertices {
+  x: 225
+  y: 442
+}
+vertices {
+  x: 225
+  y: 453
+}
+vertices {
+  x: 217
+  y: 453
+}
+
+  [97] Text: )
+[97] Position : vertices {
+  x: 231
+  y: 442
+}
+vertices {
+  x: 255
+  y: 442
+}
+vertices {
+  x: 255
+  y: 453
+}
+vertices {
+  x: 231
+  y: 453
+}
+
+  [98] Text: 부
+[98] Position : vertices {
+  x: 261
+  y: 444
+}
+vertices {
+  x: 267
+  y: 444
+}
+vertices {
+  x: 267
+  y: 451
+}
+vertices {
+  x: 261
+  y: 451
+}
+
+  [99] Text: (
+[99] Position : vertices {
+  x: 276
+  y: 444
+}
+vertices {
+  x: 277
+  y: 444
+}
+vertices {
+  x: 277
+  y: 452
+}
+vertices {
+  x: 276
+  y: 452
+}
+
+  [100] Text: V
+[100] Position : vertices {
+  x: 287
+  y: 446
+}
+vertices {
+  x: 291
+  y: 446
+}
+vertices {
+  x: 291
+  y: 450
+}
+vertices {
+  x: 287
+  y: 450
+}
+
+  [101] Text: )
+[101] Position : vertices {
+  x: 301
+  y: 443
+}
+vertices {
+  x: 303
+  y: 443
+}
+vertices {
+  x: 303
+  y: 451
+}
+vertices {
+  x: 301
+  y: 451
+}
+
+  [102] Text: 전지
+[102] Position : vertices {
+  x: 17
+  y: 464
+}
+vertices {
+  x: 34
+  y: 464
+}
+vertices {
+  x: 34
+  y: 472
+}
+vertices {
+  x: 17
+  y: 472
+}
+
+  [103] Text: 세금
+[103] Position : vertices {
+  x: 37
+  y: 461
+}
+vertices {
+  x: 59
+  y: 461
+}
+vertices {
+  x: 59
+  y: 472
+}
+vertices {
+  x: 37
+  y: 472
+}
+
+  [104] Text: 계산서
+[104] Position : vertices {
+  x: 70
+  y: 463
+}
+vertices {
+  x: 87
+  y: 463
+}
+vertices {
+  x: 87
+  y: 471
+}
+vertices {
+  x: 70
+  y: 471
+}
+
+  [105] Text: 전
+[105] Position : vertices {
+  x: 101
+  y: 460
+}
+vertices {
+  x: 109
+  y: 460
+}
+vertices {
+  x: 109
+  y: 471
+}
+vertices {
+  x: 101
+  y: 471
+}
+
+  [106] Text: 을
+[106] Position : vertices {
+  x: 111
+  y: 460
+}
+vertices {
+  x: 119
+  y: 460
+}
+vertices {
+  x: 119
+  y: 471
+}
+vertices {
+  x: 111
+  y: 471
+}
+
+  [107] Text: 전자
+[107] Position : vertices {
+  x: 123
+  y: 461
+}
+vertices {
+  x: 140
+  y: 461
+}
+vertices {
+  x: 140
+  y: 470
+}
+vertices {
+  x: 123
+  y: 470
+}
+
+  [108] Text: 우편
+[108] Position : vertices {
+  x: 144
+  y: 461
+}
+vertices {
+  x: 160
+  y: 461
+}
+vertices {
+  x: 160
+  y: 469
+}
+vertices {
+  x: 144
+  y: 469
+}
+
+  [109] Text: 주소
+[109] Position : vertices {
+  x: 165
+  y: 460
+}
+vertices {
+  x: 181
+  y: 460
+}
+vertices {
+  x: 181
+  y: 469
+}
+vertices {
+  x: 165
+  y: 469
+}
+
+  [110] Text: :
+[110] Position : vertices {
+  x: 192
+  y: 461
+}
+vertices {
+  x: 193
+  y: 461
+}
+vertices {
+  x: 193
+  y: 467
+}
+vertices {
+  x: 192
+  y: 467
+}
+
+  [111] Text: 2016
+[111] Position : vertices {
+  x: 150
+  y: 497
+}
+vertices {
+  x: 173
+  y: 497
+}
+vertices {
+  x: 173
+  y: 506
+}
+vertices {
+  x: 150
+  y: 506
+}
+
+  [112] Text: 년
+[112] Position : vertices {
+  x: 182
+  y: 496
+}
+vertices {
+  x: 190
+  y: 496
+}
+vertices {
+  x: 190
+  y: 505
+}
+vertices {
+  x: 182
+  y: 505
+}
+
+  [113] Text: 03
+[113] Position : vertices {
+  x: 199
+  y: 496
+}
+vertices {
+  x: 210
+  y: 496
+}
+vertices {
+  x: 210
+  y: 505
+}
+vertices {
+  x: 199
+  y: 505
+}
+
+  [114] Text: 월
+[114] Position : vertices {
+  x: 218
+  y: 495
+}
+vertices {
+  x: 226
+  y: 495
+}
+vertices {
+  x: 226
+  y: 505
+}
+vertices {
+  x: 218
+  y: 505
+}
+
+  [115] Text: 10
+[115] Position : vertices {
+  x: 238
+  y: 495
+}
+vertices {
+  x: 246
+  y: 495
+}
+vertices {
+  x: 246
+  y: 504
+}
+vertices {
+  x: 238
+  y: 504
+}
+
+  [116] Text: 일
+[116] Position : vertices {
+  x: 255
+  y: 495
+}
+vertices {
+  x: 263
+  y: 495
+}
+vertices {
+  x: 263
+  y: 505
+}
+vertices {
+  x: 255
+  y: 505
+}
+
+  [117] Text: 노원
+[117] Position : vertices {
+  x: 140
+  y: 527
+}
+vertices {
+  x: 177
+  y: 527
+}
+vertices {
+  x: 177
+  y: 541
+}
+vertices {
+  x: 140
+  y: 541
+}
+
+  [118] Text: 세무서
+[118] Position : vertices {
+  x: 189
+  y: 525
+}
+vertices {
+  x: 250
+  y: 524
+}
+vertices {
+  x: 250
+  y: 539
+}
+vertices {
+  x: 189
+  y: 540
+}
+
+  [119] Text: 장
+[119] Position : vertices {
+  x: 262
+  y: 524
+}
+vertices {
+  x: 275
+  y: 524
+}
+vertices {
+  x: 275
+  y: 539
+}
+vertices {
+  x: 262
+  y: 539
+}
+
+  [120] Text: E
+[120] Position : vertices {
+  x: 24
+  y: 589
+}
+vertices {
+  x: 39
+  y: 589
+}
+vertices {
+  x: 39
+  y: 602
+}
+vertices {
+  x: 24
+  y: 602
+}
+
+  [121] Text: 국세청
+[121] Position : vertices {
+  x: 45
+  y: 590
+}
+vertices {
+  x: 75
+  y: 590
+}
+vertices {
+  x: 75
+  y: 601
+}
+vertices {
+  x: 45
+  y: 601
+}
+
+  [122] Text: UBLIC
+[122] Position : vertices {
+  x: 245
+  y: 232
+}
+vertices {
+  x: 277
+  y: 277
+}
+vertices {
+  x: 264
+  y: 286
+}
+vertices {
+  x: 233
+  y: 241
+}
+
+  [123] Text: NLO
+[123] Position : vertices {
+  x: 146
+  y: 355
+}
+vertices {
+  x: 130
+  y: 321
+}
+vertices {
+  x: 145
+  y: 314
+}
+vertices {
+  x: 161
+  y: 348
+}
+
+  

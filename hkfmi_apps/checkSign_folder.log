@@ -1,0 +1,7 @@
+2019-01-21 13:48:08:INFO:checkSign_( 98) ------------ new starting -------------------------------------
+2019-01-21 13:48:08:DEBU:checkSign_(106) F:\Image\HKFMI\흥국화재_출금동의서 샘플2.dat
+2019-01-21 13:48:08:DEBU:checkSign_(106) F:\Image\HKFMI\sample.png
+2019-01-21 13:48:08:INFO:correct_sk( 44) F:\Image\HKFMI\sample.png
+2019-01-21 13:48:08:INFO:correct_sk( 78) angle: -7.540925979614258
+2019-01-21 13:48:08:INFO:correct_sk( 99) Angle needs to be adjusted..
+2019-01-21 13:48:08:INFO:correct_sk(132) [INFO] angle: 7.54093
