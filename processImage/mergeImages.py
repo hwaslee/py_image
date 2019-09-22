@@ -2,7 +2,12 @@ import cv2
 import numpy as np
 
 
-image_names = ['/Volumes/USB3-64/Image/emart/sub2.png', '/Volumes/USB3-64/Image/emart/sub1.png']
+# 동일한 타입의 이미지
+# image_names = ['/Volumes/USB3-64/Image/emart/sub2.png', '/Volumes/USB3-64/Image/emart/sub1.png']
+
+# 다른 타입의 이미지
+image_names = ['/Volumes/USB-64/Image/emart/sub2.png', '/Volumes/USB-64/Image/HKFMI/Scan0021.jpg']
+
 images = []
 max_width = 0           # find the max width of all the images
 total_height = 0        # the total height of the images (vertical stacking)
@@ -34,6 +39,6 @@ for image in images:
     final_image[current_y:current_y+image.shape[0], :image.shape[1], :] = image
     current_y += image.shape[0]
 
-cv2.imwrite('/Volumes/USB3-64/Image/emart/fin.PNG', final_image)
+cv2.imwrite('/Volumes/USB-64/Image/emart/fin.PNㄴG', final_image)
 print('done...')
 
