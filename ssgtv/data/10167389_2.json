@@ -1,0 +1,761 @@
+[0] Text: 8월말부터 9월까지 생산되는 사과로
+추석제수용과 선물용으로 많이 사랑받는 사과 홍로는
+속살이 흰고 껍질은 짙은 붉은색으로 속살이 단단하며
+아삭한 식감이 좋은 단단한 사과입니다.
+
+[0] Position : vertices {
+  x: 148
+  y: 454
+}
+vertices {
+  x: 547
+  y: 454
+}
+vertices {
+  x: 547
+  y: 561
+}
+vertices {
+  x: 148
+  y: 561
+}
+
+  [1] Text: 8
+[1] Position : vertices {
+  x: 200
+  y: 454
+}
+vertices {
+  x: 224
+  y: 454
+}
+vertices {
+  x: 224
+  y: 481
+}
+vertices {
+  x: 200
+  y: 481
+}
+
+  [2] Text: 월말
+[2] Position : vertices {
+  x: 226
+  y: 454
+}
+vertices {
+  x: 258
+  y: 454
+}
+vertices {
+  x: 258
+  y: 481
+}
+vertices {
+  x: 226
+  y: 481
+}
+
+  [3] Text: 부터
+[3] Position : vertices {
+  x: 260
+  y: 454
+}
+vertices {
+  x: 287
+  y: 454
+}
+vertices {
+  x: 287
+  y: 481
+}
+vertices {
+  x: 260
+  y: 481
+}
+
+  [4] Text: 9
+[4] Position : vertices {
+  x: 290
+  y: 454
+}
+vertices {
+  x: 306
+  y: 454
+}
+vertices {
+  x: 306
+  y: 481
+}
+vertices {
+  x: 290
+  y: 481
+}
+
+  [5] Text: 월
+[5] Position : vertices {
+  x: 308
+  y: 454
+}
+vertices {
+  x: 321
+  y: 454
+}
+vertices {
+  x: 321
+  y: 481
+}
+vertices {
+  x: 308
+  y: 481
+}
+
+  [6] Text: 까지
+[6] Position : vertices {
+  x: 323
+  y: 456
+}
+vertices {
+  x: 355
+  y: 456
+}
+vertices {
+  x: 355
+  y: 477
+}
+vertices {
+  x: 323
+  y: 477
+}
+
+  [7] Text: 생산
+[7] Position : vertices {
+  x: 362
+  y: 454
+}
+vertices {
+  x: 393
+  y: 454
+}
+vertices {
+  x: 393
+  y: 481
+}
+vertices {
+  x: 362
+  y: 481
+}
+
+  [8] Text: 되는
+[8] Position : vertices {
+  x: 380
+  y: 457
+}
+vertices {
+  x: 430
+  y: 457
+}
+vertices {
+  x: 430
+  y: 477
+}
+vertices {
+  x: 380
+  y: 477
+}
+
+  [9] Text: 사과
+[9] Position : vertices {
+  x: 435
+  y: 454
+}
+vertices {
+  x: 466
+  y: 454
+}
+vertices {
+  x: 466
+  y: 481
+}
+vertices {
+  x: 435
+  y: 481
+}
+
+  [10] Text: 로
+[10] Position : vertices {
+  x: 468
+  y: 454
+}
+vertices {
+  x: 480
+  y: 454
+}
+vertices {
+  x: 480
+  y: 481
+}
+vertices {
+  x: 468
+  y: 481
+}
+
+  [11] Text: 추석
+[11] Position : vertices {
+  x: 152
+  y: 484
+}
+vertices {
+  x: 184
+  y: 484
+}
+vertices {
+  x: 184
+  y: 504
+}
+vertices {
+  x: 152
+  y: 504
+}
+
+  [12] Text: 제
+[12] Position : vertices {
+  x: 187
+  y: 484
+}
+vertices {
+  x: 198
+  y: 484
+}
+vertices {
+  x: 198
+  y: 504
+}
+vertices {
+  x: 187
+  y: 504
+}
+
+  [13] Text: 수용
+[13] Position : vertices {
+  x: 200
+  y: 480
+}
+vertices {
+  x: 235
+  y: 480
+}
+vertices {
+  x: 235
+  y: 509
+}
+vertices {
+  x: 200
+  y: 509
+}
+
+  [14] Text: 과
+[14] Position : vertices {
+  x: 237
+  y: 480
+}
+vertices {
+  x: 255
+  y: 480
+}
+vertices {
+  x: 255
+  y: 509
+}
+vertices {
+  x: 237
+  y: 509
+}
+
+  [15] Text: 선물용
+[15] Position : vertices {
+  x: 257
+  y: 480
+}
+vertices {
+  x: 310
+  y: 480
+}
+vertices {
+  x: 310
+  y: 509
+}
+vertices {
+  x: 257
+  y: 509
+}
+
+  [16] Text: 으로
+[16] Position : vertices {
+  x: 312
+  y: 480
+}
+vertices {
+  x: 345
+  y: 480
+}
+vertices {
+  x: 345
+  y: 509
+}
+vertices {
+  x: 312
+  y: 509
+}
+
+  [17] Text: 많이
+[17] Position : vertices {
+  x: 351
+  y: 484
+}
+vertices {
+  x: 381
+  y: 484
+}
+vertices {
+  x: 381
+  y: 504
+}
+vertices {
+  x: 351
+  y: 504
+}
+
+  [18] Text: 사랑
+[18] Position : vertices {
+  x: 387
+  y: 480
+}
+vertices {
+  x: 420
+  y: 480
+}
+vertices {
+  x: 420
+  y: 509
+}
+vertices {
+  x: 387
+  y: 509
+}
+
+  [19] Text: 받는
+[19] Position : vertices {
+  x: 406
+  y: 484
+}
+vertices {
+  x: 455
+  y: 484
+}
+vertices {
+  x: 455
+  y: 504
+}
+vertices {
+  x: 406
+  y: 504
+}
+
+  [20] Text: 사과
+[20] Position : vertices {
+  x: 461
+  y: 484
+}
+vertices {
+  x: 494
+  y: 484
+}
+vertices {
+  x: 494
+  y: 504
+}
+vertices {
+  x: 461
+  y: 504
+}
+
+  [21] Text: 홍로
+[21] Position : vertices {
+  x: 497
+  y: 480
+}
+vertices {
+  x: 530
+  y: 480
+}
+vertices {
+  x: 530
+  y: 509
+}
+vertices {
+  x: 497
+  y: 509
+}
+
+  [22] Text: 는
+[22] Position : vertices {
+  x: 532
+  y: 480
+}
+vertices {
+  x: 545
+  y: 480
+}
+vertices {
+  x: 545
+  y: 509
+}
+vertices {
+  x: 532
+  y: 509
+}
+
+  [23] Text: 속살이
+[23] Position : vertices {
+  x: 148
+  y: 511
+}
+vertices {
+  x: 197
+  y: 511
+}
+vertices {
+  x: 197
+  y: 532
+}
+vertices {
+  x: 148
+  y: 532
+}
+
+  [24] Text: 흰고
+[24] Position : vertices {
+  x: 204
+  y: 511
+}
+vertices {
+  x: 237
+  y: 511
+}
+vertices {
+  x: 237
+  y: 532
+}
+vertices {
+  x: 204
+  y: 532
+}
+
+  [25] Text: 껍질
+[25] Position : vertices {
+  x: 239
+  y: 509
+}
+vertices {
+  x: 276
+  y: 509
+}
+vertices {
+  x: 276
+  y: 536
+}
+vertices {
+  x: 239
+  y: 536
+}
+
+  [26] Text: 은
+[26] Position : vertices {
+  x: 278
+  y: 508
+}
+vertices {
+  x: 290
+  y: 508
+}
+vertices {
+  x: 290
+  y: 535
+}
+vertices {
+  x: 278
+  y: 535
+}
+
+  [27] Text: 짙은
+[27] Position : vertices {
+  x: 299
+  y: 510
+}
+vertices {
+  x: 331
+  y: 510
+}
+vertices {
+  x: 331
+  y: 531
+}
+vertices {
+  x: 299
+  y: 531
+}
+
+  [28] Text: 붉은
+[28] Position : vertices {
+  x: 339
+  y: 508
+}
+vertices {
+  x: 369
+  y: 508
+}
+vertices {
+  x: 369
+  y: 535
+}
+vertices {
+  x: 339
+  y: 535
+}
+
+  [29] Text: 색
+[29] Position : vertices {
+  x: 371
+  y: 508
+}
+vertices {
+  x: 388
+  y: 508
+}
+vertices {
+  x: 388
+  y: 535
+}
+vertices {
+  x: 371
+  y: 535
+}
+
+  [30] Text: 으로
+[30] Position : vertices {
+  x: 390
+  y: 508
+}
+vertices {
+  x: 421
+  y: 508
+}
+vertices {
+  x: 421
+  y: 535
+}
+vertices {
+  x: 390
+  y: 535
+}
+
+  [31] Text: 속살이
+[31] Position : vertices {
+  x: 426
+  y: 511
+}
+vertices {
+  x: 475
+  y: 511
+}
+vertices {
+  x: 475
+  y: 532
+}
+vertices {
+  x: 426
+  y: 532
+}
+
+  [32] Text: 단단
+[32] Position : vertices {
+  x: 477
+  y: 508
+}
+vertices {
+  x: 519
+  y: 508
+}
+vertices {
+  x: 519
+  y: 535
+}
+vertices {
+  x: 477
+  y: 535
+}
+
+  [33] Text: 하며
+[33] Position : vertices {
+  x: 521
+  y: 507
+}
+vertices {
+  x: 547
+  y: 507
+}
+vertices {
+  x: 547
+  y: 535
+}
+vertices {
+  x: 521
+  y: 535
+}
+
+  [34] Text: 아삭한
+[34] Position : vertices {
+  x: 204
+  y: 538
+}
+vertices {
+  x: 254
+  y: 538
+}
+vertices {
+  x: 254
+  y: 558
+}
+vertices {
+  x: 204
+  y: 558
+}
+
+  [35] Text: 식감
+[35] Position : vertices {
+  x: 258
+  y: 534
+}
+vertices {
+  x: 294
+  y: 534
+}
+vertices {
+  x: 294
+  y: 561
+}
+vertices {
+  x: 258
+  y: 561
+}
+
+  [36] Text: 이
+[36] Position : vertices {
+  x: 306
+  y: 538
+}
+vertices {
+  x: 308
+  y: 538
+}
+vertices {
+  x: 308
+  y: 559
+}
+vertices {
+  x: 306
+  y: 559
+}
+
+  [37] Text: 좋은
+[37] Position : vertices {
+  x: 315
+  y: 538
+}
+vertices {
+  x: 348
+  y: 538
+}
+vertices {
+  x: 348
+  y: 559
+}
+vertices {
+  x: 315
+  y: 559
+}
+
+  [38] Text: 단단한
+[38] Position : vertices {
+  x: 355
+  y: 538
+}
+vertices {
+  x: 404
+  y: 538
+}
+vertices {
+  x: 404
+  y: 558
+}
+vertices {
+  x: 355
+  y: 558
+}
+
+  [39] Text: 사과
+[39] Position : vertices {
+  x: 407
+  y: 534
+}
+vertices {
+  x: 443
+  y: 534
+}
+vertices {
+  x: 443
+  y: 561
+}
+vertices {
+  x: 407
+  y: 561
+}
+
+  [40] Text: 입니다
+[40] Position : vertices {
+  x: 445
+  y: 534
+}
+vertices {
+  x: 487
+  y: 534
+}
+vertices {
+  x: 487
+  y: 561
+}
+vertices {
+  x: 445
+  y: 561
+}
+
+  [41] Text: .
+[41] Position : vertices {
+  x: 489
+  y: 534
+}
+vertices {
+  x: 497
+  y: 534
+}
+vertices {
+  x: 497
+  y: 561
+}
+vertices {
+  x: 489
+  y: 561
+}
+
+  

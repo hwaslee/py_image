@@ -1,0 +1,402 @@
+[0] Text: 자연연을
+가득당은
+Nature in Fresh Fruit
+'여름에만 먹을 수 있는 당도가 높은
+홍로사과
+
+[0] Position : vertices {
+  x: 106
+  y: 56
+}
+vertices {
+  x: 473
+  y: 56
+}
+vertices {
+  x: 473
+  y: 932
+}
+vertices {
+  x: 106
+  y: 932
+}
+
+  [1] Text: 자연
+[1] Position : vertices {
+  x: 142
+  y: 56
+}
+vertices {
+  x: 191
+  y: 58
+}
+vertices {
+  x: 190
+  y: 88
+}
+vertices {
+  x: 141
+  y: 86
+}
+
+  [2] Text: 연
+[2] Position : vertices {
+  x: 193
+  y: 58
+}
+vertices {
+  x: 201
+  y: 58
+}
+vertices {
+  x: 200
+  y: 88
+}
+vertices {
+  x: 192
+  y: 88
+}
+
+  [3] Text: 을
+[3] Position : vertices {
+  x: 203
+  y: 58
+}
+vertices {
+  x: 212
+  y: 58
+}
+vertices {
+  x: 211
+  y: 88
+}
+vertices {
+  x: 202
+  y: 88
+}
+
+  [4] Text: 가득
+[4] Position : vertices {
+  x: 152
+  y: 79
+}
+vertices {
+  x: 198
+  y: 80
+}
+vertices {
+  x: 197
+  y: 113
+}
+vertices {
+  x: 151
+  y: 112
+}
+
+  [5] Text: 당
+[5] Position : vertices {
+  x: 200
+  y: 80
+}
+vertices {
+  x: 232
+  y: 80
+}
+vertices {
+  x: 231
+  y: 117
+}
+vertices {
+  x: 199
+  y: 117
+}
+
+  [6] Text: 은
+[6] Position : vertices {
+  x: 234
+  y: 80
+}
+vertices {
+  x: 239
+  y: 80
+}
+vertices {
+  x: 238
+  y: 117
+}
+vertices {
+  x: 233
+  y: 117
+}
+
+  [7] Text: Nature
+[7] Position : vertices {
+  x: 106
+  y: 123
+}
+vertices {
+  x: 144
+  y: 123
+}
+vertices {
+  x: 144
+  y: 132
+}
+vertices {
+  x: 106
+  y: 132
+}
+
+  [8] Text: in
+[8] Position : vertices {
+  x: 150
+  y: 123
+}
+vertices {
+  x: 158
+  y: 123
+}
+vertices {
+  x: 158
+  y: 132
+}
+vertices {
+  x: 150
+  y: 132
+}
+
+  [9] Text: Fresh
+[9] Position : vertices {
+  x: 165
+  y: 122
+}
+vertices {
+  x: 194
+  y: 122
+}
+vertices {
+  x: 194
+  y: 131
+}
+vertices {
+  x: 165
+  y: 131
+}
+
+  [10] Text: Fruit
+[10] Position : vertices {
+  x: 200
+  y: 123
+}
+vertices {
+  x: 226
+  y: 123
+}
+vertices {
+  x: 226
+  y: 132
+}
+vertices {
+  x: 200
+  y: 132
+}
+
+  [11] Text: '
+[11] Position : vertices {
+  x: 189
+  y: 787
+}
+vertices {
+  x: 212
+  y: 787
+}
+vertices {
+  x: 212
+  y: 816
+}
+vertices {
+  x: 189
+  y: 816
+}
+
+  [12] Text: 여름
+[12] Position : vertices {
+  x: 214
+  y: 787
+}
+vertices {
+  x: 242
+  y: 787
+}
+vertices {
+  x: 242
+  y: 816
+}
+vertices {
+  x: 214
+  y: 816
+}
+
+  [13] Text: 에만
+[13] Position : vertices {
+  x: 254
+  y: 790
+}
+vertices {
+  x: 274
+  y: 790
+}
+vertices {
+  x: 274
+  y: 811
+}
+vertices {
+  x: 254
+  y: 811
+}
+
+  [14] Text: 먹을
+[14] Position : vertices {
+  x: 280
+  y: 790
+}
+vertices {
+  x: 312
+  y: 790
+}
+vertices {
+  x: 312
+  y: 811
+}
+vertices {
+  x: 280
+  y: 811
+}
+
+  [15] Text: 수
+[15] Position : vertices {
+  x: 317
+  y: 790
+}
+vertices {
+  x: 333
+  y: 790
+}
+vertices {
+  x: 333
+  y: 811
+}
+vertices {
+  x: 317
+  y: 811
+}
+
+  [16] Text: 있는
+[16] Position : vertices {
+  x: 339
+  y: 790
+}
+vertices {
+  x: 372
+  y: 790
+}
+vertices {
+  x: 372
+  y: 811
+}
+vertices {
+  x: 339
+  y: 811
+}
+
+  [17] Text: 당도
+[17] Position : vertices {
+  x: 374
+  y: 787
+}
+vertices {
+  x: 412
+  y: 787
+}
+vertices {
+  x: 412
+  y: 816
+}
+vertices {
+  x: 374
+  y: 816
+}
+
+  [18] Text: 가
+[18] Position : vertices {
+  x: 423
+  y: 790
+}
+vertices {
+  x: 428
+  y: 790
+}
+vertices {
+  x: 428
+  y: 811
+}
+vertices {
+  x: 423
+  y: 811
+}
+
+  [19] Text: 높은
+[19] Position : vertices {
+  x: 433
+  y: 791
+}
+vertices {
+  x: 466
+  y: 791
+}
+vertices {
+  x: 466
+  y: 811
+}
+vertices {
+  x: 433
+  y: 811
+}
+
+  [20] Text: 홍로
+[20] Position : vertices {
+  x: 201
+  y: 823
+}
+vertices {
+  x: 320
+  y: 824
+}
+vertices {
+  x: 319
+  y: 932
+}
+vertices {
+  x: 200
+  y: 931
+}
+
+  [21] Text: 사과
+[21] Position : vertices {
+  x: 325
+  y: 827
+}
+vertices {
+  x: 473
+  y: 828
+}
+vertices {
+  x: 472
+  y: 932
+}
+vertices {
+  x: 324
+  y: 931
+}
+
+  

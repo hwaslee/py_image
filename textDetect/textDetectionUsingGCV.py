@@ -32,7 +32,7 @@ def detect_text(file):
         pyperclip.copy(text.description)
         break;
 
-    index  = 0
+    index = 0
     for text in texts:
         # print('\n"{} {}"'.format(index, text.description))
         index += 1
@@ -89,7 +89,8 @@ if __name__ == '__main__':
     '''
 
     # filename = '/Volumes/USB3-64/Image/transaction.PDF'
-    filename = 'F:\\Image\\A1area.PNG'
+    filename = '/Volumes/USB3-64/Image/10167389_1.jpg'
+    # filename = 'F:\\Image\\10167389_1.jpg'
     # filename = 'F:\\Image\\A1test.png'
     detect_text(filename)
 
